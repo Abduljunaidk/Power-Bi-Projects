@@ -1,81 +1,86 @@
 # 📊 Middle East Dry Fruits Co. – Sales Analytics Dashboard
 
-This repository contains a Power BI dashboard project developed during a hands-on workshop focused on analyzing sales data for a fictional dry fruits company operating across global regions.
+This repository contains an interactive Power BI dashboard built during a hands-on workshop. It analyzes sales and profit data from a fictional dry fruits company operating globally, transforming raw figures into meaningful business insights.
 
 ---
 
-## 🧠 Project Summary
+## 🧠 Project Overview
 
-The goal of this project was to transform raw sales and profit data into actionable insights. Using Power BI, the data was cleaned, modeled, and visualized to help management make informed decisions based on trends, top-performing products, and regions.
-
----
-
-## 🛠️ Tools & Skills Used
-
-- Power BI Desktop
-- Power Query (ETL)
-- DAX (Data Analysis Expressions)
-- Data Modeling
-- Interactive Dashboards
+The objective of this project is to showcase the ability to clean, model, and visualize raw sales data using Power BI. The dashboard highlights sales performance, profit margins, regional trends, and top-performing products and employees—helping stakeholders make data-driven decisions.
 
 ---
 
-## 📁 Files in this Repository
+## 🔧 Tools & Technologies
 
-| File Name                              | Description                                    |
-|---------------------------------------|------------------------------------------------|
-| `Sales Data.xlsx`                     | Raw sales dataset used for this project        |
-| `Middle East Dry Fruits Dashboard.pbix` | Power BI dashboard file                         |
-| `README.md`                           | Project documentation and overview             |
-
----
-
-## 📊 Dashboard Features
-
-- **Total Sales**: 30.3M  
-- **Total Profit**: 23.3M  
-- **Sales by Month**: Trend analysis of monthly performance  
-- **Sales by Region**: APAC region contributes the highest share  
-- **Sales by Geography**: Top countries include USA, India, and UK  
-- **Sales by Product**: Top-selling products include Prunes and Apple Rings  
-- **Sales by Salesperson**: Siddharth Singh was the highest performer  
+- **Power BI Desktop**
+- **Power Query (ETL)**
+- **DAX (Data Analysis Expressions)**
+- **Data Modeling**
+- **Interactive Visualization Design**
 
 ---
 
-## 🔍 Key Visuals & Insights
+## 📁 Repository Contents
 
-- **Line Chart**: Total Sale by Month to identify sales trends  
-- **Bar Chart**: Total Sale by Geography  
-- **Donut Chart**: Total Sale by Region  
-- **Pie Chart**: Product-wise sales contribution  
-- **Table**: Salesperson performance ranking  
-
----
-
-## 🎯 Business Impact
-
-This dashboard enables business stakeholders to:
-- Monitor sales performance monthly and geographically
-- Identify high-performing products and staff
-- Allocate resources effectively to optimize revenue and profit
+| File Name                                | Description                                      |
+|-----------------------------------------|--------------------------------------------------|
+| `MiddleEastDryFruitsDashboard.pbix`     | The Power BI dashboard file                      |
+| `Sales Data.xlsx`                        | The raw data source used in the dashboard        |
+| `dashboard.png`                          | Preview image of the Power BI dashboard          |
+| `README.md`                              | This file – project overview and details         |
 
 ---
 
-## 📌 Author
+## 📊 Key Dashboard Features
 
-**Abdul Junaid – Data Analyst & Power BI Enthusiast**
-
----
-
-## ✅ How to Use
-
-1. Open `Middle East Dry Fruits Dashboard.pbix` in Power BI Desktop  
-2. Load the dataset from `Sales Data.xlsx` if prompted  
-3. Explore the interactive dashboard  
+- 📈 **Total Sales:** 30.3M  
+- 💰 **Total Profit:** 23.3M  
+- 🌍 **Top Region:** APAC  
+- 🏆 **Top Salesperson:** Siddharth Singh  
+- 🧺 **Top Products:** Prunes, Apple Rings  
+- 📅 **Monthly Trend Analysis**  
+- 📌 **Sales by Country & Product Line**
 
 ---
 
-## 📬 Contact
+## 📌 Visual Highlights
 
-For suggestions or collaborations, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- **Line Chart:** Sales trends by month  
+- **Bar Chart:** Sales breakdown by geography  
+- **Donut Chart:** Sales distribution by region  
+- **Pie Chart:** Product category contributions  
+- **Table:** Sales performance by salesperson
 
+---
+
+## 💼 Business Insights
+
+This dashboard provides real-time insights into:
+- 📉 Performance dips and peaks over time  
+- 🎯 High-performing regions and countries  
+- 👥 Most profitable salespeople and products  
+- 📊 Overall business health and opportunities
+
+---
+
+## 👨‍💻 About Me
+
+**Abdul Junaid**  
+Aspiring Data Analyst with a passion for turning raw data into compelling stories using tools like Power BI and Excel.  
+🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+---
+
+## ✅ How to Use This Project
+
+1. Clone or download this repository.
+2. Open `MiddleEastDryFruitsDashboard.pbix` in **Power BI Desktop**.
+3. Ensure `Sales Data.xlsx` is in the same folder or re-map the source if prompted.
+4. Interact with the visualizations and explore insights.
+
+---
+
+## ⭐️ If you like this project
+
+Feel free to **star** ⭐ this repo and share your feedback!  
+Looking forward to connecting and collaborating with fellow data enthusiasts.
